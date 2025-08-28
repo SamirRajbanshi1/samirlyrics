@@ -1,11 +1,11 @@
 [
-  { "title": "Song One", "file": "lyrics/song1.md" },
-  { "title": "Song Two", "file": "lyrics/song2.md" },
-  { "title": "Kanang Maya Lagalo", "file": "lyrics/kanang.md" },
-  {"title": "Aji man kandese", "file": "lyrics/ajiman.md" },
-  {"title": "chal gory", "file": "lyrics/chalgory.md" },
-  {"title": "Choto choto bath mein", "file": "lyrics/chotochoto.md" },
-  {"title": "Dada vai sange sange", "file": "lyrics/dadavai.md" },
-  {"title": "Mor 18 Sal", "file": "lyrics/mor18sal.md" },
-  {"title": "Agey Mai tor ruper", "file": "lyrics/ageymai.md" }
+  { "title": "Song One", "file": "song1.md" },
+  { "title": "Song Two", "file": "song2.md" },
+  { "title": "Kanang Maya Lagalo", "file": "kanang.md" },
+  {"title": "Aji man kandese", "file": "ajiman.md" },
+  {"title": "chal gory", "file": "chalgory.md" },
+  {"title": "Choto choto bath mein", "file": "chotochoto.md" },
+  {"title": "Dada vai sange sange", "file": "dadavai.md" },
+  {"title": "Mor 18 Sal", "file": "mor18sal.md" },
+  {"title": "Agey Mai tor ruper", "file": "ageymai.md" }
 ]
