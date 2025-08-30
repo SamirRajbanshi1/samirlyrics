@@ -1,11 +1,18 @@
 [
-  { "title": "Song One", "file": "song1.md" },
-  { "title": "Song Two", "file": "song2.md" },
-  { "title": "Kanang Maya Lagalo", "file": "kanang.md" },
-  {"title": "Aji man kandese", "file": "ajiman.md" },
-  {"title": "chal gory", "file": "chalgory.md" },
-  {"title": "Choto choto bath mein", "file": "chotochoto.md" },
-  {"title": "Dada vai sange sange", "file": "dadavai.md" },
-  {"title": "Mor 18 Sal", "file": "mor18sal.md" },
-  {"title": "Agey Mai tor ruper", "file": "ageymai.md" }
+  { "title": "Song One", "file": "song1.md","category": "rajbanshi" },
+  { "title": "Song Two", "file": "song2.md","category": "rajbanshi"  },
+  { "title": "Kanang Maya Lagalo", "file": "kanang.md" ,"category": "rajbanshi" },
+  {"title": "Aji man kandese", "file": "ajiman.md","category": "rajbanshi"  },
+  {"title": "chal gory", "file": "chalgory.md" ,"category": "rajbanshi" },
+  {"title": "Choto choto bath mein", "file": "chotochoto.md","category": "rajbanshi"  },
+  {"title": "Dada vai sange sange", "file": "dadavai.md","category": "rajbanshi"  },
+  {"title": "Mor 18 Sal", "file": "mor18sal.md" ,"category": "rajbanshi" },
+  {"title": "Agey Mai tor ruper", "file": "ageymai.md", "category": "rajbanshi" },
+  {"title": "nira jaile risaune", "file": "nira.md", "category": "nepali" },
+  {"title": "samjhana birsana", "file": "samjhana.md", "category": "nepali" },
+  {"title": "gurasai fulyo", "file": "gurasai.md", "category": "nepali" },
+  {"title": "Futkera gayo umera", "file": "fukeragayo.md", "category": "nepali" },
+  {"title": "ausi ko ratma remmix", "file": "ausikorat.md", "category": "nepali" },
+  {"title": "Kanha ne kiya missed call", "file": "kanhamissed.md", "category": "bhajan" }
+
 ]
