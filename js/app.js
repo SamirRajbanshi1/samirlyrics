@@ -1,3 +1,8 @@
+// Configure marked to handle single line breaks properly
+marked.setOptions({
+  breaks: true
+});
+
 let songs = [];
 let filteredSongs = [];
 let currentCategory = null;

@@ -84,7 +84,23 @@ h1 {
   color: red;
 }
 
+/* Lyrics area: let HTML control line breaks; don't pre-wrap */
 #lyrics {
-  white-space: pre-wrap;
-  margin-top: 20px;
+  white-space: normal;   /* important: remove/override pre-wrap here */
+  line-height: 1.5;
+}
+
+/* Tighten paragraph spacing produced by Markdown */
+#lyrics p {
+  margin: 0.9rem 0;      /* default is ~1em, which looks like triple spacing */
+}
+
+/* Optional: headings inside lyrics */
+#lyrics h1, #lyrics h2, #lyrics h3 {
+  margin: 0.5rem 0 0.4rem;
+}
+
+/* If you have lists in lyrics */
+#lyrics li {
+  margin: 0.2rem 0;
 }
