@@ -1,6 +1,4 @@
 [
-  { "title": "Song One", "file": "song1.md","category": "rajbanshi" },
-  { "title": "Song Two", "file": "song2.md","category": "rajbanshi"  },
   { "title": "Kanang Maya Lagalo", "file": "kanang.md" ,"category": "rajbanshi" },
   {"title": "Aji man kandese", "file": "ajiman.md","category": "rajbanshi"  },
   {"title": "chal gory", "file": "chalgory.md" ,"category": "rajbanshi" },
@@ -13,6 +11,22 @@
   {"title": "gurasai fulyo", "file": "gurasai.md", "category": "nepali" },
   {"title": "Futkera gayo umera", "file": "fukeragayo.md", "category": "nepali" },
   {"title": "ausi ko ratma remmix", "file": "ausikorat.md", "category": "nepali" },
-  {"title": "Kanha ne kiya missed call", "file": "kanhamissed.md", "category": "bhajan" }
+  {"title": "Kanha ne kiya missed call", "file": "kanhamissed.md", "category": "bhajan" },
+  {"title": "tapla tupli sajayene ", "file": "taplatupli.md", "category": "rajbanshi" },
+  {"title": "dhun bajyo dhun bajyo", "file": "dhun bajyo.md", "category": "bhajan" },
+  {"title": "hey krishna malai mitho bansi", "file": "hey krishna malai.md", "category": "bhajan" },
+  {"title": "shiva mandai mandaina", "file": "shiva mandaina.md", "category": "bhajan" },
+  {"title": "ore sakhi ree", "file": "ore sakhi re.md", "category": "rajbanshi" },
+  {"title": "lagaya sari chokut kajal", "file": "lagaya sari.md", "category": "rajbanshi" },
+  {"title": "mera dil hein diwana", "file": "meradilhdiwana.md", "category": "bhajan" },
+  {"title": "ore sakhi re guitar", "file": "ore sakhi guitar.md", "category": "guitar" },
+  {"title": "rato rani ", "file": "rato rani.md", "category": "nepali" },
+  {"title": "dholo molo kolar gach ", "file": "dholomala.md", "category": "rajbongshi" },
+  {"title": "ki gaan sunalo bapoi re ", "file": "ki gaan sunalo.md", "category": "rajbongshi" },
+  {"title": "krishna vajan ma lagyo mero man ", "file": "krishna bhajan ma.md", "category": "bhajan" },
+  {"title": "kaha hola ghar bara", "file": "kaha hola ghar.md", "category": "nepali" },
+  {"title": "lekali hai choya ko dhoko", "file": "lekali choya.md", "category": "nepali" },
+  {"title": "lahana le jurayo ki", "file": "lahana le jurayo ki.md", "category": "nepali" }
+
 
 ]
