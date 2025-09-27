@@ -2,18 +2,21 @@
 **chorus**
 agey mai tor ruper...
 Agey mai tor ruper kanang jadu lagiche yar
+
 Ekbar jadi hasle tayar mue marbar tayar
 Tor ruper kanang benaiche ho dekhwar taney
-Lagiche bazarr 
-Ekbar jadi hasle tayar... repeat 🔁
+Lagiche bazarr **+2**
+
 **verse**
-Ulala ho..ulalaho.. ulalahoooooo o oo×2
+Ulala ho..ulalaho.. ulalahoooooo o oo
+Ulala ho..ulalaho.. ulalahoooooo o oo
  
-Tor thumak thumak chal ..ar sundar sundar gal
-Kya karchis ananag gasa janang bagmarching er jhal ×2🔁
+Tor thumak thumak chal, Aar sundar sundar gal
+Kya karchis ananag gasa janang bagmarching er jhal **×2🔁**
+
 Agey gasa haishna..gasa tahet beraishna
 Tor andar na vala lageynaa.
 
 Ekbar jadi hasle tayar mue marbar tayar
 Tor ruper kanang benaiche ho dekhwar taney
-Lagiche bazarr ×2
+Lagiche bazarr **×2**

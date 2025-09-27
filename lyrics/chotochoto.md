@@ -2,8 +2,19 @@
 **chorus**
 choto choto bath mein 
 tu chinta na kar re gori 
- maruti car me bethaike 
- tokey lejamu apun gori -2
+maruti car me uthaike 
+tokey lejamu apun gori -2
+
+tor maa ki korbe, tor dada ki korbe
+maa ki korbe, tor dada ki korbe
+tor nana ki korbe mokey, ay gorii
+
+choto choto bath mein 
+tu chinta na kar re gori 
+maruti car me uthaike 
+tokey lejamu apun gori -2
+
+
  **verse**
 Chinta na kar re gori mor banas habe 20 tarik
 Tue chinta na kar re gori mor banas habe 20 tarik
