@@ -1,50 +1,74 @@
-[
-  { "title": "Kanang Maya Lagalo", "file": "kanang.md" ,"category": "rajbanshi" },
-  {"title": "Aji man kandese", "file": "ajiman.md","category": "rajbanshi"  },
-  {"title": "chal gory", "file": "chalgory.md" ,"category": "rajbanshi" },
-  {"title": "Choto choto bath mein", "file": "chotochoto.md","category": "rajbanshi"  },
-  {"title": "Dada vai sange sange", "file": "dadavai.md","category": "rajbanshi"  },
-  {"title": "Mor 18 Sal", "file": "mor18sal.md" ,"category": "rajbanshi" },
-  {"title": "Agey Mai tor ruper", "file": "ageymai.md", "category": "rajbanshi" },
-  {"title": "nira jaile risaune", "file": "nira.md", "category": "nepali" },
-  {"title": "samjhana birsana", "file": "samjhana.md", "category": "nepali" },
-  {"title": "gurasai fulyo", "file": "gurasai.md", "category": "nepali" },
-  {"title": "Futkera gayo umera", "file": "fukeragayo.md", "category": "nepali" },
-  {"title": "ausi ko ratma remmix", "file": "ausikorat.md", "category": "nepali" },
-  {"title": "Kanha ne kiya missed call", "file": "kanhamissed.md", "category": "bhajan" },
-  {"title": "tapla tupli sajayene ", "file": "taplatupli.md", "category": "rajbanshi" },
-  {"title": "dhun bajyo dhun bajyo", "file": "dhun bajyo.md", "category": "bhajan" },
-  {"title": "hey krishna malai mitho bansi", "file": "hey krishna malai.md", "category": "bhajan" },
-  {"title": "shiva mandai mandaina", "file": "shiva mandaina.md", "category": "bhajan" },
-  {"title": "ore sakhi ree", "file": "ore sakhi re.md", "category": "rajbanshi" },
-  {"title": "lagaya sari chokut kajal", "file": "lagaya sari.md", "category": "rajbanshi" },
-  {"title": "mera dil hein diwana", "file": "meradilhdiwana.md", "category": "bhajan" },
-  {"title": "ore sakhi re guitar", "file": "ore sakhi guitar.md", "category": "guitar" },
-  {"title": "rato rani ", "file": "rato rani.md", "category": "nepali" },
-  {"title": "dholo molo kolar gach ", "file": "dholomala.md", "category": "rajbongshi" },
-  {"title": "ki gaan sunalo bapoi re ", "file": "ki gaan sunalo.md", "category": "rajbongshi" },
-  {"title": "krishna vajan ma lagyo mero man ", "file": "krishna bhajan ma.md", "category": "bhajan" },
-  {"title": "kaha hola ghar bara", "file": "kaha hola ghar.md", "category": "nepali" },
-  {"title": "lekali hai choya ko dhoko", "file": "lekali choya.md", "category": "nepali" },
-  {"title": "lahana le jurayo ki", "file": "lahana le jurayo ki.md", "category": "nepali" },
-  {"title": "asis song", "file": "asis.md", "category": "nepali" },
-  {"title": "didi bahini daju bhai", "file": "didibahini.md", "category": "nepali" },
-  {"title": "Chari maryo sidai ko goli le", "file": "talko maxa.md", "category": "nepali" },
-  {"title": "Resham firir", "file": "resham firiri.md", "category": "nepali" },
-  {"title": "musu musu haideu nalai", "file": "musu musu.md", "category": "nepali" },
-  {"title": "o mor baniya bondhu re", "file": "o mor baniya.md", "category": "rajbongshi" },
-  {"title": "dashain tihar sugam pokhrel", "file": "dashain tihar.md", "category": "nepali" },
-  {"title": "jaleche jaleche", "file": "jaleche.md", "category": "rajbanshi" },
-  {"title": "aji kya kanang lageche", "file": "aji kya kanang.md", "category": "rajbanshi" },
-  {"title": "koch rajbanshi chengra mue", "file": "koch rajbanshi chengra.md", "category": "rajbanshi" },
-  {"title": "bonde maya lagaise", "file": "bonde maya lagaise.md", "category": "rajbongshi" },
-  {"title": "ey chengre kunthey jachis ge", "file": "ey chengri.md", "category": "rajbanshi" },
-  {"title": "gauriganj  er bhajarat", "file": "gauriganj bajarat.md", "category": "rajbanshi" },
-  {"title": "lamo lamo chuli mai tor", "file": "lamo lamo chuli.md", "category": "rajbanshi" },
-  {"title": "bhet hale jatra bazar", "file": "vet hale jatra.md", "category": "rajbanshi" },
-  {"title": "aai mor din jaye bhabote", "file": "aai mor din jaye bhabate.md", "category": "rajbanshi" },
-  {"title": "nirmaya", "file": "nirmaya.md", "category": "nepali" }
+{
+  "categories": [
+    {
+      "name": "nepali",
+      "songs": [
+        {"title": "nira jaile risaune", "file": "nepali/nira.md"},
+        {"title": "samjhana birsana", "file": "nepali/samjhana.md" },
+        {"title": "gurasai fulyo", "file": "nepali/gurasai.md"},
+        {"title": "Futkera gayo umera", "file": "nepali/fukeragayo.md" },
+        {"title": "ausi ko ratma remmix", "file": "nepali/ausikorat.md" },
+        {"title": "kaha hola ghar bara", "file": "nepali/kaha hola ghar.md" },  
+        {"title": "rato rani ", "file": "nepali/rato rani.md" },
+        {"title": "lekali hai choya ko dhoko", "file": "nepali/lekali choya.md" },
+        {"title": "lahana le jurayo ki", "file": "nepali/lahana le jurayo ki.md" },
+        {"title": "Eh kancha malai", "file": "nepali/ek kancha.md"},
+        {"title": "chari maryo sisai ko goli le", "file": "nepali/talko maxa.md" },
+        {"title": "Resham firir", "file": "nepali/resham firiri.md"},
+        {"title": "musu musu haideu nalai", "file": "nepali/musu musu.md"},
+        {"title": "dashain tihar sugam pokhrel", "file": "nepali/dashain tihar.md"},
+        {"title": "nirmaya", "file": "nepali/nirmaya.md" }
 
 
+      ]
+    },
+    {
+      "name": "rajbanshi",
+      "songs": [
+        { "title": "Kanang Maya Lagalo", "file": "rajbanshi/kanang.md"},
+        {"title": "Aji man kandese", "file": "rajbanshi/ajiman.md"},
+        {"title": "chal gory", "file": "rajbanshi/chalgory.md"},
+        {"title": "Choto choto bath mein", "file": "rajbanshi/chotochoto.md" },
+        {"title": "Dada vai sange sange", "file": "rajbanshi/dadavai.md" },
+        {"title": "Mor 18 Sal", "file": "rajbanshi/mor18sal.md" },
+        {"title": "Agey Mai tor ruper", "file": "rajbanshi/ageymai.md"},
+        {"title": "tapla tupli sajayene ", "file": "rajbanshi/taplatupli.md" },  
+        {"title": "ore sakhi ree", "file": "rajbanshi/ore sakhi re.md" },
+        {"title": "lagaya sari chokut kajal", "file": "rajbanshi/lagaya sari.md"},
+        {"title": "jaleche jaleche", "file": "rajbanshi/jaleche.md"},
+        {"title": "aji kya kanang lageche", "file": "rajbanshi/aji kya kanang.md"},
+        {"title": "koch rajbanshi chengra mue", "file": "rajbanshi/koch rajbanshi chengra.md" },
+        {"title": "ey chengre kunthey jachis ge", "file": "rajbanshi/ey chengri.md"},
+        {"title": "gauriganj  er bhajarat", "file": "rajbanshi/gauriganj bajarat.md" },
+        {"title": "lamo lamo chuli mai tor", "file": "rajbanshi/lamo lamo chuli.md"},
+        {"title": "bhet hale jatra bazar", "file": "rajbanshi/vet hale jatra.md"},
+        {"title": "aai mor din jaye bhabote", "file": "rajbanshi/aai mor din jaye bhabate.md"}
 
-]
+
+      ]
+    },
+    {
+      "name": "bhajan",
+      "songs": [
+        {"title": "hey krishna malai mitho bansi", "file": "bhajan/hey krishna malai.md"},
+        {"title": "shiva mandai mandaina", "file": "bhajan/shiva mandaina.md"},
+        {"title": "Kanha ne kiya missed call", "file": "bhajan/kanhamissed.md" },
+        {"title": "krishna vajan ma lagyo mero man ", "file": "bhajan/krishna bhajan ma.md" },
+        {"title": "dhun bajyo dhun bajyo", "file": "bhajan/dhun bajyo.md" },
+        {"title": "mera dil hein diwana", "file": "bhajan/meradilhdiwana.md" },
+        {"title": "krishna vajan ma lagyo mero man ", "file": "bhajan/krishna bhajan ma.md"}
+
+      ]
+    },
+    {
+      "name": "rajbongshi",
+      "songs": [
+        {"title": "dholo molo kolar gach ", "file": "rajbongshi/dholomala.md"},
+        {"title": "ki gaan sunalo bapoi re ", "file": "rajbongshi/ki gaan sunalo.md"},
+        {"title": "o mor baniya bondhu re", "file": "rajbongshi/o mor baniya.md"},
+        {"title": "bonde maya lagaise", "file": "rajbongshi/bonde maya lagaise.md" }
+
+      ]
+    }
+  ]
+}

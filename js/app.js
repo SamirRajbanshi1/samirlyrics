@@ -9,22 +9,38 @@ let currentCategory = null;
 
 async function loadSongs() {
   const res = await fetch("songs.json");
-  songs = await res.json();
+  const data = await res.json();
+
+  // Flatten songs from categories array
+  songs = [];
+  data.categories.forEach(cat => {
+    cat.songs.forEach(song => {
+      songs.push({
+        title: song.title,
+        file: song.file,
+        category: cat.name
+      });
+    });
+  });
+
+  // ✅ Sort songs alphabetically by title
+  songs.sort((a, b) => a.title.localeCompare(b.title));
+
   filteredSongs = songs;
-  displayCategories();
+  displayCategories(data.categories);
   displaySongs(songs);
 }
 
-function displayCategories() {
+
+function displayCategories(categories) {
   const categoriesDiv = document.getElementById("categories");
-  const uniqueCategories = [...new Set(songs.map(s => s.category))];
   categoriesDiv.innerHTML = "";
 
-  uniqueCategories.forEach(cat => {
+  categories.forEach(cat => {
     const btn = document.createElement("div");
     btn.className = "category";
-    btn.textContent = cat;
-    btn.onclick = () => filterByCategory(cat);
+    btn.textContent = cat.name;
+    btn.onclick = () => filterByCategory(cat.name);
     categoriesDiv.appendChild(btn);
   });
 
@@ -39,6 +55,7 @@ function displayCategories() {
   };
   categoriesDiv.appendChild(allBtn);
 }
+
 
 function displaySongs(list) {
   const songsDiv = document.getElementById("songs");
