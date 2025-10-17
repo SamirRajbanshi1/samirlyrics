@@ -3,21 +3,24 @@
     {
       "name": "nepali",
       "songs": [
-        {"title": "nira jaile risaune", "file": "nepali/nira.md"},
-        {"title": "samjhana birsana", "file": "nepali/samjhana.md" },
-        {"title": "gurasai fulyo", "file": "nepali/gurasai.md"},
+        {"title": "Nira jaile risaune", "file": "nepali/nira.md"},
+        {"title": "Samjhana birsana", "file": "nepali/samjhana.md" },
+        {"title": "Gurasai fulyo", "file": "nepali/gurasai.md"},
         {"title": "Futkera gayo umera", "file": "nepali/fukeragayo.md" },
-        {"title": "ausi ko ratma remmix", "file": "nepali/ausikorat.md" },
+        {"title": "Ausi ko ratma remmix", "file": "nepali/ausikorat.md" },
         {"title": "kaha hola ghar bara", "file": "nepali/kaha hola ghar.md" },  
-        {"title": "rato rani ", "file": "nepali/rato rani.md" },
+        {"title": "Rato rani ", "file": "nepali/rato rani.md" },
         {"title": "lekali hai choya ko dhoko", "file": "nepali/lekali choya.md" },
         {"title": "lahana le jurayo ki", "file": "nepali/lahana le jurayo ki.md" },
         {"title": "Eh kancha malai", "file": "nepali/ek kancha.md"},
-        {"title": "chari maryo sisai ko goli le", "file": "nepali/talko maxa.md" },
+        {"title": "Chari maryo sisai ko goli le", "file": "nepali/talko maxa.md" },
         {"title": "Resham firir", "file": "nepali/resham firiri.md"},
-        {"title": "musu musu haideu nalai", "file": "nepali/musu musu.md"},
-        {"title": "dashain tihar sugam pokhrel", "file": "nepali/dashain tihar.md"},
-        {"title": "nirmaya", "file": "nepali/nirmaya.md" }
+        {"title": "Musu musu haideu nalai", "file": "nepali/musu musu.md"},
+        {"title": "Dashain tihar sugam pokhrel", "file": "nepali/dashain tihar.md"},
+        {"title": "Nirmaya", "file": "nepali/nirmaya.md" },
+        {"title": "Asis song", "file": "nepali/asis.md" },
+        {"title": "Didi bahini daju vai", "file": "nepali/didibahini.md" }
+
 
 
       ]
@@ -27,22 +30,22 @@
       "songs": [
         { "title": "Kanang Maya Lagalo", "file": "rajbanshi/kanang.md"},
         {"title": "Aji man kandese", "file": "rajbanshi/ajiman.md"},
-        {"title": "chal gory", "file": "rajbanshi/chalgory.md"},
+        {"title": "Chal gory", "file": "rajbanshi/chalgory.md"},
         {"title": "Choto choto bath mein", "file": "rajbanshi/chotochoto.md" },
         {"title": "Dada vai sange sange", "file": "rajbanshi/dadavai.md" },
         {"title": "Mor 18 Sal", "file": "rajbanshi/mor18sal.md" },
         {"title": "Agey Mai tor ruper", "file": "rajbanshi/ageymai.md"},
-        {"title": "tapla tupli sajayene ", "file": "rajbanshi/taplatupli.md" },  
-        {"title": "ore sakhi ree", "file": "rajbanshi/ore sakhi re.md" },
-        {"title": "lagaya sari chokut kajal", "file": "rajbanshi/lagaya sari.md"},
-        {"title": "jaleche jaleche", "file": "rajbanshi/jaleche.md"},
-        {"title": "aji kya kanang lageche", "file": "rajbanshi/aji kya kanang.md"},
-        {"title": "koch rajbanshi chengra mue", "file": "rajbanshi/koch rajbanshi chengra.md" },
-        {"title": "ey chengre kunthey jachis ge", "file": "rajbanshi/ey chengri.md"},
-        {"title": "gauriganj  er bhajarat", "file": "rajbanshi/gauriganj bajarat.md" },
-        {"title": "lamo lamo chuli mai tor", "file": "rajbanshi/lamo lamo chuli.md"},
-        {"title": "bhet hale jatra bazar", "file": "rajbanshi/vet hale jatra.md"},
-        {"title": "aai mor din jaye bhabote", "file": "rajbanshi/aai mor din jaye bhabate.md"}
+        {"title": "Tapla tupli sajayene ", "file": "rajbanshi/taplatupli.md" },  
+        {"title": "Ore sakhi ree", "file": "rajbanshi/ore sakhi re.md" },
+        {"title": "Lagaya sari chokut kajal", "file": "rajbanshi/lagaya sari.md"},
+        {"title": "Jaleche jaleche", "file": "rajbanshi/jaleche.md"},
+        {"title": "Aji kya kanang lageche", "file": "rajbanshi/aji kya kanang.md"},
+        {"title": "Koch rajbanshi chengra mue", "file": "rajbanshi/koch rajbanshi chengra.md" },
+        {"title": "Ey chengre kunthey jachis ge", "file": "rajbanshi/ey chengri.md"},
+        {"title": "Gauriganj  er bhajarat", "file": "rajbanshi/gauriganj bajarat.md" },
+        {"title": "Lamo lamo chuli mai tor", "file": "rajbanshi/lamo lamo chuli.md"},
+        {"title": "Bhet hale jatra bazar", "file": "rajbanshi/vet hale jatra.md"},
+        {"title": "Aai mor din jaye bhabote", "file": "rajbanshi/aai mor din jaye bhabate.md"}
 
 
       ]
@@ -50,12 +53,12 @@
     {
       "name": "bhajan",
       "songs": [
-        {"title": "hey krishna malai mitho bansi", "file": "bhajan/hey krishna malai.md"},
-        {"title": "shiva mandai mandaina", "file": "bhajan/shiva mandaina.md"},
+        {"title": "Hey krishna malai mitho bansi", "file": "bhajan/hey krishna malai.md"},
+        {"title": "Shiva mandai mandaina", "file": "bhajan/shiva mandaina.md"},
         {"title": "Kanha ne kiya missed call", "file": "bhajan/kanhamissed.md" },
-        {"title": "krishna vajan ma lagyo mero man ", "file": "bhajan/krishna bhajan ma.md" },
-        {"title": "dhun bajyo dhun bajyo", "file": "bhajan/dhun bajyo.md" },
-        {"title": "mera dil hein diwana", "file": "bhajan/meradilhdiwana.md" }
+        {"title": "Krishna vajan ma lagyo mero man ", "file": "bhajan/krishna bhajan ma.md" },
+        {"title": "Dhun bajyo dhun bajyo", "file": "bhajan/dhun bajyo.md" },
+        {"title": "Mera dil hein diwana", "file": "bhajan/meradilhdiwana.md" }
       
 
       ]
@@ -63,10 +66,10 @@
     {
       "name": "rajbongshi",
       "songs": [
-        {"title": "dholo molo kolar gach ", "file": "rajbongshi/dholomala.md"},
-        {"title": "ki gaan sunalo bapoi re ", "file": "rajbongshi/ki gaan sunalo.md"},
-        {"title": "o mor baniya bondhu re", "file": "rajbongshi/o mor baniya.md"},
-        {"title": "bonde maya lagaise", "file": "rajbongshi/bonde maya lagaise.md" }
+        {"title": "Dholo molo kolar gach ", "file": "rajbongshi/dholomala.md"},
+        {"title": "Ki gaan sunalo bapoi re ", "file": "rajbongshi/ki gaan sunalo.md"},
+        {"title": "O mor baniya bondhu re", "file": "rajbongshi/o mor baniya.md"},
+        {"title": "Bonde maya lagaise", "file": "rajbongshi/bonde maya lagaise.md" }
 
       ]
     }
